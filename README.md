@@ -27,10 +27,10 @@
 
 <table align="center">
   <tr>
-    <th colspan="7"><samp>Programming Languages</samp></th>
+    <th colspan="3"><samp>Programming Languages</samp></th>
   </tr>
   <tr>
-    <td>
+    <td width="255">
       <div align="center">
         <a href="https://www.python.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/>
@@ -38,7 +38,7 @@
         <p align="center"><samp>Python</samp></p>
       </div>
     </td>
-    <td>           
+    <td width="255">           
       <div align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/>
@@ -46,7 +46,7 @@
         <p align="center"><samp>JavaScript</samp></p>
       </div>
     </td>
-    <td>           
+    <td width="255">           
       <div align="center">
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript"/>
@@ -54,7 +54,9 @@
         <p align="center"><samp>TypeScript</samp></p>
       </div>
     </td>
-    <td>           
+  </tr>
+  <tr>
+    <td width="255">           
       <div align="center">
         <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
@@ -62,7 +64,7 @@
         <p align="center"><samp>Java</samp></p>
       </div>
     </td>
-    <td>
+    <td width="255">
       <div align="center">
         <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin"/>
@@ -70,7 +72,7 @@
         <p align="center"><samp>Kotlin</samp></p>
       </div>
     </td>
-    <td>           
+    <td width="255">           
       <div align="center">
         <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
@@ -78,23 +80,15 @@
         <p align="center"><samp>C</samp></p>
       </div>
     </td>
-    <td>
-      <div align="center">
-        <a href="https://www.minizinc.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://www.minizinc.org/doc-2.5.3/en/static/MiniZn_logo_2.svg" alt="MiniZinc" width="36" height="36"/> 
-        </a> 
-        <p align="center"><samp>MiniZinc</samp></p>
-      </div>
-    </td>
   </tr>
 </table>
 
 <table align="center">
   <tr>
-    <th colspan="7"><samp>Artificial Intelligence Libraries</samp></th>
+    <th colspan="3"><samp>Artificial Intelligence Libraries</samp></th>
   </tr>
   <tr>
-    <td>
+    <td width="255">
       <div align="center">
         <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
           <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="36" height="36"/>
@@ -102,7 +96,7 @@
         <p align="center"><samp>TensorFlow</samp></p>
       </div>
     </td>
-    <td>           
+    <td width="255">           
       <div align="center">
         <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
           <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="36" height="36"/>
@@ -110,7 +104,7 @@
         <p align="center"><samp>scikit-learn</samp></p>
       </div>
     </td>
-    <td>           
+    <td width="255">           
       <div align="center">
         <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
           <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="36" height="36"/> 
@@ -118,7 +112,9 @@
         <p align="center"><samp>OpenCV</samp></p>
       </div>
     </td>
-    <td>           
+  </tr>
+  <tr>
+    <td width="255">           
       <div align="center">
         <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="36" height="36"/> 
@@ -126,7 +122,8 @@
         <p align="center"><samp>pandas</samp></p>
       </div>
     </td>
-    <td>
+    <td width="255" />
+    <td width="255">
       <div align="center">
         <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
           <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="36" height="36"/>
@@ -140,10 +137,10 @@
 
 <table align="center">
   <tr>
-    <th colspan="7"><samp>Front-end</samp></th>
+    <th colspan="3"><samp>Front-end</samp></th>
   </tr>
   <tr>
-    <td>
+    <td width="255">
       <div align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
@@ -151,7 +148,7 @@
         <p align="center"><samp>HTML5</samp></p>
       </div>
     </td>
-    <td>
+    <td width="255">
       <div align="center">
         <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
@@ -159,14 +156,16 @@
         <p align="center"><samp>CSS3</samp></p>
       </div>
     </td>
-    <td>
+    <td width="255">
       <div align="center">
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />          </a>
         <p align="center"><samp>React</samp></p>
       </div>
     </td>
-    <td>
+  </tr>
+  <tr>
+    <td width="255">
       <div align="center">
         <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="36" height="36"/> 
@@ -174,15 +173,7 @@
         <p align="center"><samp>Android Studio</samp></p>
       </div>
     </td>  
-    <td>
-      <div align="center">
-        <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" />
-        </a>
-        <p align="center"><samp>Vue.js</samp></p>
-      </div>
-    </td>
-    <td>
+    <td width="255">
       <div align="center">
         <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs"/>
@@ -190,7 +181,7 @@
         <p align="center"><samp>NextJs</samp></p>
       </div>
     </td>
-    <td>
+    <td width="255">
       <div align="center">
          <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
          </a>
@@ -202,10 +193,10 @@
 
 <table align="center">
   <tr>
-    <th colspan="6"><samp>Back-end and other</samp></th>
+    <th colspan="3"><samp>Back-end and other</samp></th>
   </tr>
   <tr>
-    <td>
+    <td width="255">
       <div align="center">
         <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS"/>
@@ -213,7 +204,7 @@
         <p align="center"><samp>NodeJS</samp></p>
       </div>
     </td>
-    <td>
+    <td width="255">
       <div align="center">
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB"/>
@@ -221,7 +212,7 @@
         <p align="center"><samp>MongoDB</samp></p>
       </div>
     </td>
-    <td>
+    <td width="255">
       <div align="center">
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL"/>
@@ -229,7 +220,9 @@
         <p align="center"><samp>MySQL</samp></p>
       </div>
     </td>
-    <td>
+  </tr>
+  <tr>
+    <td width="255">
       <div align="center">
         <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
           <img src="https://www.pdfa.org/wp-content/uploads/2021/01/latex-wpv_x200.png" width="36" height="36" alt="LaTeX"/>
@@ -237,7 +230,7 @@
         <p align="center"><samp>LaTeX</samp></p>
       </div>
     </td>
-    <td>
+    <td width="255">
       <div align="center">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
           <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/> 
@@ -245,7 +238,7 @@
         <p align="center"><samp>git</samp></p>
       </div>
     </td>
-    <td>
+    <td width="255">
       <div align="center">
         <a href="https://postman.com" target="_blank" rel="noreferrer"> 
           <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="36" height="36"/> 
