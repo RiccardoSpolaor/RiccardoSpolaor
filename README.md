@@ -4,7 +4,7 @@
 <code>
     <a href="https://www.linkedin.com/in/riccardospolaor/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
 <code>
-    <a href="mailto:riccardo.spolaor94@gmail.com" title="Mail"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg">Mail</a></code>
+    <a href="mailto:riccardo.spolaor94@gmail.com" title="Mail"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg"> Mail</a></code>
 </div>
 
 <h3 align="center"> :bar_chart: <samp>My Stats</samp> :chart_with_upwards_trend: </h3>
