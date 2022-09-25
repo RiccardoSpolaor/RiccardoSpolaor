@@ -89,9 +89,7 @@
       </div>
     </td>
   </tr>
-</table>
 
-<table align="center">
   <tr>
     <th colspan="3"><samp>Artificial Intelligence Libraries</samp></th>
   </tr>
@@ -140,10 +138,7 @@
       </div>
     </td>
   </tr>
-</table>
 
-
-<table align="center">
   <tr>
     <th colspan="3"><samp>Front-end</samp></th>
   </tr>
@@ -197,9 +192,7 @@
       </div>
     </td>
   </tr>
-</table>
 
-<table align="center">
   <tr>
     <th colspan="3"><samp>Back-end and other</samp></th>
   </tr>
