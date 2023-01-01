@@ -128,7 +128,14 @@
         <p align="center"><samp>pandas</samp></p>
       </div>
     </td>
-    <td width="255" />
+    <td width="255">           
+      <div align="center">
+        <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="36" height="36"/> 
+        </a> 
+        <p align="center"><samp>PyTorch</samp></p>
+      </div>
+    </td>
     <td width="255">
       <div align="center">
         <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
