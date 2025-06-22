@@ -25,11 +25,11 @@
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiccardoSpolaor&hide=c%23,powershell,css,html,scss&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
   </a>
 </div>
-<div align="center">
+<!-- <div align="center">
   <a href="http://www.github.com/RiccardoSpolaor">
     <img height=270 src="https://activity-graph.herokuapp.com/graph?username=RiccardoSpolaor&bg_color=000000&color=98d0cd&line=259076&point=29a587&area=true&hide_border=true" alt="GitHub Commits Graph" />
   </a>
-</div>
+</div> -->
 
 <h3 align="center"> :computer: <samp>Technologies I use</samp> :floppy_disk: </h3>
 
